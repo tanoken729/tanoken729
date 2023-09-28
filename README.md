@@ -10,7 +10,7 @@
 
 - 👨‍💻 A demo of my personally developed music sharing service is available at [https://x.com/Kentaro97402331/status/1467488695750361088?s=20](https://x.com/Kentaro97402331/status/1467488695750361088?s=20)
 
-- 📝 I regularly write articles on [https://zenn.dev/tanoken729](https://zenn.dev/tanoken729), [https://qiita.com/tanoken729b](https://qiita.com/tanoken729b)
+- 📝 I regularly write articles on [Zenn](https://zenn.dev/tanoken729), [Qiita](https://qiita.com/tanoken729b)
 
 - 📫 How to reach me **tanoken729j@gmail.com**
 
