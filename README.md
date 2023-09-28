@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Nuxt.js, React.js, Next.js, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://x.com/Kentaro97402331/status/1467488695750361088?s=20](https://x.com/Kentaro97402331/status/1467488695750361088?s=20)
+- 👨‍💻 A demo of my personally developed music sharing service is available at [https://x.com/Kentaro97402331/status/1467488695750361088?s=20](https://x.com/Kentaro97402331/status/1467488695750361088?s=20)
 
 - 📝 I regularly write articles on [https://zenn.dev/tanoken729, https://qiita.com/tanoken729b](https://zenn.dev/tanoken729, https://qiita.com/tanoken729b)
 
